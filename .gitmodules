@@ -1,0 +1,6 @@
+[submodule "comics"]
+	path = comics
+	url = git@github.com:atremblay/comics.git
+[submodule "linxspiration"]
+	path = linxspiration
+	url = git@github.com:atremblay/linxspiration.git
