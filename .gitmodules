@@ -4,3 +4,6 @@
 [submodule "linxspiration"]
 	path = linxspiration
 	url = git@github.com:atremblay/linxspiration.git
+[submodule "dcwikia"]
+	path = dcwikia
+	url = git@github.com:atremblay/dcwikia.git
