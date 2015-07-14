@@ -7,3 +7,6 @@
 [submodule "dcwikia"]
 	path = dcwikia
 	url = git@github.com:atremblay/dcwikia.git
+[submodule "megadeluxe"]
+	path = megadeluxe
+	url = git@github.com:atremblay/megadeluxe.git
